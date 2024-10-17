@@ -1,0 +1,6 @@
+llms_ctx.txt
+llms_svg.txt
+.sesskey
+.env
+tailwindcss
+__pycache__
